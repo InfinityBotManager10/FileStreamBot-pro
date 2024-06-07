@@ -172,4 +172,3 @@ Bot also Supported with Channels. Just add bot Channel as Admin. If any new file
 
 - [Me](https://github.com/adarsh-goel)
 - Everyone In This Journey !
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/InfinityBotManager10/FileStreamBot-pro/tree/main)
